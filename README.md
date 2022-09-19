@@ -1,4 +1,3 @@
 # unitesting
-code made from jUnit Course at Platzi
+code made from jUnit
 
-[Course](https://platzi.com/cursos/testing-java/)
